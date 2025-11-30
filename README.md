@@ -1,1 +1,1 @@
-# Проектная работа №2 - Посмотри в окно
+https://github.com/Vanek-Beast/posmotri-v-okno-ad
